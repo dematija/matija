@@ -1,0 +1,44 @@
+ul.menu {
+  display: flex;
+}
+
+.menu li {
+  list-style: none;
+  margin: 10px;
+}
+
+ul.jeugde {
+  display: flex;
+}
+
+.jeugde li {
+  list-style: none;
+  margin: 10px;
+}
+
+ul.contact {
+  display: flex;
+}
+
+.contact li {
+  list-style: none;
+  margin: 10px;
+}
+
+ul.film {
+  display: felx;
+}
+
+.film li {
+  list-style: none;
+  margin: 10px;
+}
+
+ul.kinderen {
+  display: flex;
+}
+
+.kinderen li{
+  list-style: none;
+  margin: 10px;
+}
